@@ -8,14 +8,11 @@ In this repository, I'm uploading mostly i.e., code (python, and matlab scripts)
 
 **REQUEST: I'm looking for the guidance motivated Data Scientists to help me build high environmental impact algorithms (CV essentially). You can email me (junhasan@gmail.com)**
 
-## Table of projects :
-- [CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
-- [Latest Articles](https://github.com/maelfabien/Machine_Learning_Tutorials/#latest-articles)
-- [Machine Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning)
-- [Deep Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#deep-learning)
-- [Data Engineering](https://github.com/maelfabien/Machine_Learning_Tutorials#data-engineering)
-- [Written for other blogs](https://github.com/maelfabien/Machine_Learning_Tutorials#written-for-other-blogs)
-- [Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
+## List of Projects :
+- [House Price Prediction of Bangaluru](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/House%20Price%20Prediction%20in%20Bangaluru/Home%20price%20prediction%20in%20Bangaluru.ipynb)
+- [Car Price Prediction](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Car%20Price%20Prediction/Car%20Price%20Prediction.ipynb)
 
 
-Thanks.
+
+
+**Thanks.**
