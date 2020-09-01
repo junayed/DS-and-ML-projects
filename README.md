@@ -11,6 +11,9 @@ In this repository, I'm uploading mostly i.e., code (python, and matlab scripts)
 ## List of Projects :
 - [House Price Prediction of Bangaluru](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/House%20Price%20Prediction%20in%20Bangaluru/Home%20price%20prediction%20in%20Bangaluru.ipynb)
 - [Car Price Prediction](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Car%20Price%20Prediction/Car%20Price%20Prediction.ipynb)
+- [Flight Fare Prediction](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Flight%20Fare%20Prediction/Prediction%20of%20Flight%20Fare.ipynb)
+
+
 
 
 
