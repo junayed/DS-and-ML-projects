@@ -6,7 +6,7 @@ In this repository, I'm uploading mostly i.e., code (python, and matlab scripts)
 
 🚀 I recently started a new challange to make myself better. Every week I will try to do some smaller projects, and will upload those into this repository in order to share my knowledge to the DS-ML community. 
 
-**REQUEST: I'm looking for the guidance motivated Data Scientists to help me build high environmental impact algorithms (CV essentially). You can email me (junhasan@gmail.com)**
+**REQUEST: I'm looking for the guidance motivated Data Scientists to help me build high environmental impact algorithms. You can email me (junhasan@gmail.com)**
 
 ## List of Projects :
 - [House Price Prediction of Bangaluru](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/House%20Price%20Prediction%20in%20Bangaluru/Home%20price%20prediction%20in%20Bangaluru.ipynb)
