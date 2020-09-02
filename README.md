@@ -12,8 +12,8 @@ In this repository, I'm uploading mostly i.e., code (python, and matlab scripts)
 - [House Price Prediction of Bangaluru](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/House%20Price%20Prediction%20in%20Bangaluru/Home%20price%20prediction%20in%20Bangaluru.ipynb)
 - [Car Price Prediction](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Car%20Price%20Prediction/Car%20Price%20Prediction.ipynb)
 - [Flight Fare Prediction](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Flight%20Fare%20Prediction/Prediction%20of%20Flight%20Fare.ipynb)
-- [Visualization of Uber Pick Up Loacations](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Visualize%20Uber%20Pick%20Up%20Locations/Visualize%20Uber%20Pick%20Up%20Locations.ipynb)
-
+- [Visualization of Uber Pick Up Locations](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Visualize%20Uber%20Pick%20Up%20Locations/Visualize%20Uber%20Pick%20Up%20Locations.ipynb)
+- [Password Strength Checker](https://github.com/junayed/Data-Science-and-Machine-Learning-Projects/blob/master/Password%20Strength%20Check/Checking%20Password%20Strength%20using%20ML%20Algorithms.ipynb)
 
 
 
